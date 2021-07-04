@@ -170,6 +170,7 @@ public class third_lesson {
 
 
     }
+//8 не осилил
 
 }
 
