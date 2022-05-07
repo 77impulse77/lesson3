@@ -10,7 +10,7 @@
 
 
 
-// С помощью цикла и условия заменить 0 на 1, 1 на 0;
+//1 С помощью цикла и условия заменить 0 на 1, 1 на 0;
 
 import java.util.Arrays;
 
@@ -107,7 +107,7 @@ public class third_lesson {
 
     public static void fillArr4(int[][] doubleArr) {
         int n = doubleArr.length;
-               for (int i = 0; i < doubleArr.length; i++) {
+               for (int i = 0; i < doubleArr.length; i++)   {
                      for (int j = 0; j < doubleArr[i].length; j++) {
                          doubleArr[i][j] = 2;
                          if (i == j) {doubleArr[i][j] = 1;}
@@ -170,7 +170,7 @@ public class third_lesson {
 
 
     }
-//8 не осилил
+//8 не осилил!
 
 }
 
